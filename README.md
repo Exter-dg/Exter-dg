@@ -6,7 +6,7 @@ I love programming in C++ :smiley:. I have worked with [Xapian](https://xapian.o
 
 Little more text:
 
- - 🔭 I'm currently working on Bloom Filters
+ - 🔭 I'm currently working on a LAMP Project - ![Cov-ID](https://github.com/Exter-dg/CovID)
  - 💬 I love exploring new stuff, especially things related to Geopolitics
  - 😄 Pronouns: He/Him 
  - :pencil2: I have also started writing blogs (amatuer-hour :sweat_smile:)
