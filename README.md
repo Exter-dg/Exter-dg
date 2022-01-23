@@ -2,7 +2,7 @@
 
 <br>
 
-I love programming in C++ :smiley:. I have worked with [Xapian](https://xapian.org/) during GSoC'20 on text-extraction libraries.
+I love programming :smiley:. I have worked with [Xapian](https://xapian.org/) during GSoC'20 on text-extraction libraries.
 
 Little more text:
 
