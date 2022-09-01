@@ -6,7 +6,7 @@ I love programming :smiley:. I have worked with [Xapian](https://xapian.org/) du
 
 Little more text:
 
- - 🔭 I'm currently working on a LAMP Project - [Cov-ID](https://github.com/Exter-dg/CovID)
+ - 🔭 I'm currently working on a Typing Speedometer - [typingSpeedometer](https://github.com/Exter-dg/typingSpeedometer)
  - 💬 I love exploring new stuff, especially things related to Geopolitics
  - 😄 Pronouns: He/Him 
  - :pencil2: I have also started writing blogs (amatuer-hour :sweat_smile:)
