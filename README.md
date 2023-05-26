@@ -6,7 +6,7 @@ I love programming :smiley:. I have worked with [Xapian](https://xapian.org/) du
 
 Little more text:
 
- - 🔭 I'm currently working on - [Static Responsive Blog Page](https://github.com/Exter-dg/MUIBlogResponsive) and [All Things Movies](https://github.com/Exter-dg/allThingsMovies)
+ - 🔭 I'm currently working on - [Portfolio Site](https://github.com/Exter-dg/portfolio) and [All Things Movies](https://github.com/Exter-dg/allThingsMovies)
  - 💬 I love exploring new stuff, especially things related to Geopolitics
  - 😄 Pronouns: He/Him 
  - :pencil2: I have also started writing blogs (amatuer-hour :sweat_smile:)
