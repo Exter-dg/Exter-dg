@@ -6,11 +6,11 @@ I love programming :smiley:. I have worked with [Xapian](https://xapian.org/) du
 
 Little more text:
 
- - 🔭 I'm currently working on - [Portfolio Site](https://github.com/Exter-dg/portfolio) and [All Things Movies](https://github.com/Exter-dg/allThingsMovies)
+ - 🔭 I'm currently working on - [Portfolio Site](https://github.com/Exter-dg/portfolio) and [Flutter Practice](https://github.com/Exter-dg/flutterPractice)
  - 💬 I love exploring new stuff, especially things related to Geopolitics
  - 😄 Pronouns: He/Him 
  - :pencil2: I have also started writing blogs (amatuer-hour :sweat_smile:)
- - 📫 How to reach me: [18bce151@nirmauni.ac.in](mailto:18bce151@nirmauni.ac.in)
+ - 📫 How to reach me: [parthrkapadia@gmail.com](mailto:parthrkapadia@gmail.com)
 
 <br><br>
 
