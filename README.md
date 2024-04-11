@@ -4,7 +4,6 @@
 
 I love programming :smiley:. I have worked with [Xapian](https://xapian.org/) during GSoC'20 on text-extraction libraries.
 
-// Check out my [Portfolio here](https://exter-dg.github.io/portfolio/).
 
 Little more text:
 
