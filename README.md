@@ -4,11 +4,11 @@
 
 I love programming :smiley:. I have worked with [Xapian](https://xapian.org/) during GSoC'20 on text-extraction libraries.
 
-Check out my [Portfolio here](https://exter-dg.github.io/portfolio/).
+// Check out my [Portfolio here](https://exter-dg.github.io/portfolio/).
 
 Little more text:
 
- - 🔭 I'm currently working on - [Portfolio Site](https://github.com/Exter-dg/portfolio) and [The Game of Snake](https://github.com/Exter-dg/snake_game)
+ - 🔭 I'm currently working on - [The Game of Snake](https://github.com/Exter-dg/snake_game)
  - 💬 I love exploring new stuff, especially things related to Geopolitics
  - 😄 Pronouns: He/Him 
  - :pencil2: I have also started writing [blogs](https://medium.com/@exter-dg) (amatuer-hour :sweat_smile:)
