@@ -17,8 +17,8 @@ Little more text:
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/Exter-dg"> <img src="https://img.icons8.com/nolan/96/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/parth-kapadia14/"> <img src="https://img.icons8.com/nolan/96/linkedin.png" alt="LinkedIn"/></a>
+<!-- 	<a href="https://github.com/Exter-dg"> <img src="https://img.icons8.com/nolan/96/github.png" alt="GitHub"/></a> -->
+<!-- 	<a href="https://www.linkedin.com/in/parth-kapadia14/"> <img src="https://img.icons8.com/nolan/96/linkedin.png" alt="LinkedIn"/></a> -->
 <!-- 	<a href="https://www.facebook.com/parth.kapadia.9822/"> <img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://twitter.com/Exter_dg"> <img src="https://img.icons8.com/nolan/96/twitter.png" alt="Twitter"/></a> -->
 </p>
